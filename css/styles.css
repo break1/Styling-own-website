@@ -1,0 +1,99 @@
+
+h1{
+
+  color:#66BFBF;
+  font-size: 60px;
+  width: 40%;
+  margin: 0 auto 0 auto;
+  padding: 100px;
+  font-family: 'Sacramento', cursive;
+  line-height: 2;
+
+
+}
+h2{
+  color:#66BFBF;
+  font-size: 30px;
+  margin: 0 auto ;
+  font-family: 'Sacramento', cursive;
+  font-weight: normal;
+}
+h3{
+  color: #11999E;
+  font-size: 30px;
+}
+a{
+  color: #11999E;
+
+}
+p{
+  color: black; font-size: 25px;
+  font-family: sans-serif;
+
+
+}
+.intro{
+  width: 50%;
+  margin: auto;
+  line-height: 2;
+}
+hr{
+  border: dotted #66BFBF 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+.top-container{
+  background-color: powderblue;
+}
+
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+.middle-container{
+
+}
+.bottom-container{
+}
+.bottom-cloud{
+  position: absolute;
+  right: 400px;
+}
+.top-cloud{
+  position: absolute;
+  left: 400px;
+  padding: 40px;
+}
+.skills{
+  width: 50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+}
+.hobbies{
+  width: 50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+
+}
+.profile{
+  border-radius: 50%;
+
+}
+.computer{
+  border-radius: 50%;
+  height: 200px;
+  width: 200px;
+  border: 5px solid;
+  float: left;
+  margin-right: 30px;
+}
+.reading{
+  border-radius: 50%;
+  height: 200px;
+  width: 200px;
+  border: 5px solid;
+  float: right;
+  margin-left: 30px;
+}
